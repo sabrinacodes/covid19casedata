@@ -1,7 +1,7 @@
 # Covid19 Case Data within the United States
 ![Covid 19](https://th.bing.com/th/id/OIP.MONYSbRhDvllqMgl5f-GLwHaEK?w=306&h=180&c=7&o=5&pid=1.7)
 
-#### The focus of this project is discuss COVID 19 impact to the United States and the impact to several industries stocks.
+#### The focus of this project is discuss COVID 19 impact to the United States and the impact it has on several industry's stocks prices.
 By examine:
  1. We'll take a look at the total cases per state to determine which states to date has the total most cases
  2. Compare the number cases to date in the United States.
