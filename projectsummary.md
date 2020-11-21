@@ -13,6 +13,8 @@ With the sports industry, it was difficult to track because of the absence of pu
 
 
 On the other hand, companies developing Covid vaccines and testing kits have seen an increase in their stock prices. For example, Novavax jumped in price due to the investment of their vaccine. Other companies such as Pfizer and Moderna also saw an increase as their vaccines were proven to be 95% effective. Abbott Laboratories experienced a minor decline but increased again as they focused on Covid testing kits. 
+![image](https://user-images.githubusercontent.com/20588107/99868745-6ed30c80-2b82-11eb-815a-3a89736241c1.png)
+
 
 Over the course of the year, some companies saw an increase in their stocks while others did not. Overall, Covid-19 has hurt all industries and has shift the way we operate to ensure the safety of ourselves and others around us. The virus has caused us to be more thorough with cleanliness, and how we spread germs. Hopefully with a vaccine, these company stock prices will rebound as people will return to life as we call normal. So we ask ourselve these questions:
 
