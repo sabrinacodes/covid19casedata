@@ -1,5 +1,6 @@
 Final Data Analysis
 
+![image](https://user-images.githubusercontent.com/20588107/99868588-0172ac00-2b81-11eb-8607-3710954f284c.png)
 
 Major findings came from the CDC website, Google Finance, InvestorPlace, Barrons, Raging Bull, Wall Street Survivor, SwingTradeBot, Benzinga, and MarketWatch. With the CDC Website, it gave accurate information as well as CSV data files on the number of cases, and number of cases per state. Also gave us information on the different type of cases(negative/positive and death/recovery). Initially this data was very hard to find, which took us more than a week to pull data on Covid cases.
 With Google Finance, we were able to find stock prices on various industries to create CSV files and read them in to our Jupyter Notebook. We used this data to determine the impact that Covid had on stock prices in a timeline. 
