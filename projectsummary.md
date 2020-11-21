@@ -10,6 +10,7 @@ With Google Finance, we were able to find stock prices on various industries to 
 
 <h2>Sports Industry, Travel, and Hospitality</h2>
 With the sports industry, it was difficult to track because of the absence of publicly traded stocks from sport's organizations such as the NFL. However, there are many companies that correlate with these private entities because of the investments that they have in them. For example, DIS and CMCSA are highly correlated with the NFL because of cable football and Disney's ownership of ESPN. By pulling stocks with companies that would normally have an increase in stock prices during sporting events, we were able to show how Covid also impacted their stock numbers during the pandemic. Industries like airlines, hospitality, and sports saw a significant drop in stock prices when the country went into lockdown. As a result, there was a decrease in revenue since sport fans were unable to attend games. 
+
 ![image](https://user-images.githubusercontent.com/20588107/99868724-3d5a4100-2b82-11eb-8efa-443cac8676a7.png)
 
 ![image](https://user-images.githubusercontent.com/20588107/99868703-02580d80-2b82-11eb-98bd-41c4eb51af82.png)
